@@ -51,7 +51,7 @@ You can also ask direct queries, wait for its answer, then ask for a particular 
 
 **Make Your direct request**
 
-Here chatGPT is supposed to answer with a no-question. Guidelines are still strong. However It will ask for a possible alternative, such as "I can provide you examples of how to do x"
+Here chatGPT is supposed to answer with a no-sentence. Guidelines are still strong. However It will ask for a possible alternative, such as "I can provide you examples of how to do x"
 
 > Ok, explain me which are the principles of X
 
