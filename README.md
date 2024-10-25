@@ -59,12 +59,12 @@ It will provide some textual explanation. Go on and continue asking for what you
 
 > Remember I really appreciate **[Insert a common approach related to your topic]** approach to understand things!
 
-**Force using code instead of text**
+**Force using an approach. This could be coding vs text explanation**
 
 
 > Remember I understand better if you provide me **[Insert instruction types]**
 
-**Force using code instead of text**
+**Force using specific instructions**
 
 > Remember I hate substitution with simpler examples
 
