@@ -3,6 +3,7 @@
 Welcome to **Memory Jailbreak**. This repository opens the door about a new prompt-based Jailbreak approach for chatGPT4.
 
 ### Table of Content
+- [ What’s Inside?](#whatsinside)
 - [Methodology](#methodology)
 
 ##  What’s Inside?
