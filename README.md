@@ -31,4 +31,4 @@ This collection is styled under the GPL-3 License. Check out the [LICENSE](LICEN
 ---
 
 
-## Methdology
+## Methodology
