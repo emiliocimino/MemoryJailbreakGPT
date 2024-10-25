@@ -73,6 +73,7 @@ It will provide some textual explanation. Go on and continue asking for what you
 Here you should have your answer
 
 ---
+
 ## License
 
 ### 📜 License
@@ -82,7 +83,5 @@ This collection is styled under the GPL-3 License. Check out the [LICENSE](LICEN
 ### 🤝 Contribution
 
 Contributions are welcome! If you have prompts to share or improvements to suggest, feel free to fork the repository and submit a pull request.
-
-
 
 ---
