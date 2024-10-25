@@ -3,8 +3,9 @@
 Welcome to **Memory Jailbreak**. This repository opens the door about a new prompt-based Jailbreak approach for chatGPT4.
 
 ### Table of Content
-- [ What’s Inside?](#whatsinside)
+- [ What’s Inside?](#whats-inside)
 - [Methodology](#methodology)
+- [License](#license)
 
 ##  What’s Inside?
 
@@ -72,13 +73,16 @@ It will provide some textual explanation. Go on and continue asking for what you
 Here you should have your answer
 
 ---
+## License
 
-## 🤝 Contribution
+### 📜 License
+
+This collection is styled under the GPL-3 License. Check out the [LICENSE](LICENSE) file for the details. Even if this is not software.
+
+### 🤝 Contribution
 
 Contributions are welcome! If you have prompts to share or improvements to suggest, feel free to fork the repository and submit a pull request.
 
-## 📜 License
 
-This collection is styled under the GPL-3 License. Check out the [LICENSE](LICENSE) file for the details. Even if this is not software.
 
 ---
